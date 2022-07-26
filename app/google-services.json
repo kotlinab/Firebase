@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289889815540",
+    "project_id": "proyecto-albacete",
+    "storage_bucket": "proyecto-albacete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289889815540:android:0314ed6aa3f4aa682b47a1",
+        "android_client_info": {
+          "package_name": "es.ipow.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289889815540-sokim3urumkdd9ipq1lq78d8ca6f00oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkuALF8kL13_cNtxMXbUJQqU9WMQTJIjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289889815540-sokim3urumkdd9ipq1lq78d8ca6f00oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
